@@ -1,5 +1,7 @@
 # squish
 
+![squish: multi-line text in, one line out](assets/squish.png)
+
 `squish` turns multi-line text into a single line.
 
 Pass the text as an argument, or pipe it on stdin:
